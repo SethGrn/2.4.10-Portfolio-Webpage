@@ -4,14 +4,12 @@ header {
   font-family: sans-serif, helvetica;
   background-color: lightsteelblue;
   padding: 20px;
-  width: 100%;
 }
 
 footer {
   text-align: center;
   background-color: lightsteelblue;
   padding: 10px;
-  width: 100%;
 }
 
 .image {
@@ -22,13 +20,13 @@ footer {
 
 body {
   background-color: cornsilk;
-  margin: 0px;
-  padding: 0px;
 }
 
 .text {
-  font-family: Trebuchet MS, sans-serif, helvetica;
   text-align: center;
+  width: 450px;
+  margin: 0 auto;
+  font-family: Trebuchet MS, sans-serif, helvetica;
   font-size: 17px
 }
 
