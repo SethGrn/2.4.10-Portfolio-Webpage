@@ -1,0 +1,38 @@
+
+header {
+  text-align: center;
+  font-family: sans-serif, helvetica;
+  background-color: lightsteelblue;
+  padding: 20px;
+  width: 100%;
+}
+
+footer {
+  text-align: center;
+  background-color: lightsteelblue;
+  padding: 10px;
+  width: 100%;
+}
+
+.image {
+  padding-top: 50px;
+  text-align: center;
+  margin: auto;
+}
+
+body {
+  background-color: cornsilk;
+  margin: 0px;
+  padding: 0px;
+}
+
+.text {
+  font-family: Trebuchet MS, sans-serif, helvetica;
+  text-align: center;
+  font-size: 17px
+}
+
+.list {
+  text-align: left;
+  margin-left: 30%;
+}
