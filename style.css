@@ -19,10 +19,11 @@ footer {
 }
 
 body {
-  background-color: cornsilk;
+  background: cornsilk;
 }
 
 .text {
+  color: #605252;
   text-align: center;
   width: 450px;
   margin: 0 auto;
@@ -33,4 +34,17 @@ body {
 .list {
   text-align: left;
   margin-left: 30%;
+  height: 100px;
+}
+
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: purple;
+}
+
+a:hover {
+    color: #a206a2;
 }
